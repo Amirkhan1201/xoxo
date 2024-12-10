@@ -1,0 +1,26 @@
+
+
+.info {
+	width: 30vw;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	color: whitesmoke;
+    
+}
+.info:hover{
+    color: #ff36c9;
+}
+.player {
+	border: 2px solid #ff36c9;
+	border-radius: 5%;
+	padding: 0.5rem 0;
+	display: flex;
+	font-size: 1rem;
+	justify-content: center;
+	align-items: center;
+	width: 10vw;
+}
+.player:hover {
+    border: 2px solid #ffffff;
+}
